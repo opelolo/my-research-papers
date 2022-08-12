@@ -1,2 +1,2 @@
 # my-research-papers
-This repository contains the research papers I authored and co-authored.
+This repository contains the research papers and proposals I authored and co-authored.
